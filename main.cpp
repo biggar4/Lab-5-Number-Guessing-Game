@@ -3,7 +3,7 @@
  Computer Science Fall 2025
  Due Date: 11/11
  Lab 5: Number Guessing Game
- Description: A number guessing game where the computer selects a random number from 0–100. The user has to try and correct the right number. The game will show you your wins and losses after you're done
+ Description: A number guessing game where the computer selects a random number from 0–100. The user has to try and correctly guess the right number. The game will show you your wins and losses after you're done.
 */
 
 #include <iostream>
